@@ -1,2 +1,2 @@
-# hi-TEA
+# Hi-TEA
 ecommerce website
